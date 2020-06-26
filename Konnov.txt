@@ -1,0 +1,301 @@
+Tu (K)	Pu (atm)	Equivalence Ratio	SL0 (cm/s)	α	β	Method	Reference
+300	1	0.65	16.96			Stagnation flame/linear 	Davis and Law  1998
+300	1	0.70	20.92			Stagnation flame/linear 	Davis and Law  1998
+300	1	0.81	26.57			Stagnation flame/linear 	Davis and Law  1998
+300	1	0.86	30.11			Stagnation flame/linear 	Davis and Law  1998
+300	1	0.91	32.37			Stagnation flame/linear 	Davis and Law  1998
+300	1	1.00	35.34			Stagnation flame/linear 	Davis and Law  1998
+300	1	1.07	35.19			Stagnation flame/linear 	Davis and Law  1998
+300	1	1.11	34.91			Stagnation flame/linear 	Davis and Law  1998
+300	1	1.22	32.23			Stagnation flame/linear 	Davis and Law  1998
+300	1	1.28	29.26			Stagnation flame/linear 	Davis and Law  1998
+300	1	1.33	26.57			Stagnation flame/linear 	Davis and Law  1998
+300	1	1.38	22.47			Stagnation flame/linear 	Davis and Law  1998
+300	1	1.49	16.40			Stagnation flame/linear 	Davis and Law  1998
+300	1	1.70	10.32			Stagnation flame/linear 	Davis and Law  1998
+358	1	0.80	40.21			Spherical flame/linear	Bradley et al. 1998
+358	1	0.80	41.63			Spherical flame/linear	Bradley et al. 1998
+358	1	0.90	42.82			Spherical flame/linear	Bradley et al. 1998
+358	1	1.00	43.79			Spherical flame/linear	Bradley et al. 1998
+358	1	1.10	44.81			Spherical flame/linear	Bradley et al. 1998
+358	1	1.10	46.47			Spherical flame/linear	Bradley et al. 1998
+358	1	1.00	45.83			Spherical flame/linear	Bradley et al. 1998
+358	1	1.20	39.33			Spherical flame/linear	Bradley et al. 1998
+358	1	1.30	35.11			Spherical flame/linear	Bradley et al. 1998
+358	1	0.90	46.38			Spherical flame/linear	Bradley et al. 1998
+358	2.5	1.00	35.28			Spherical flame/linear	Bradley et al. 1998
+358	2.5	1.00	38.83			Spherical flame/linear	Bradley et al. 1998
+358	2.5	0.80	25.91			Spherical flame/linear	Bradley et al. 1998
+358	2.5	0.80	24.46			Spherical flame/linear	Bradley et al. 1998
+358	5	1.00	31.63			Spherical flame/linear	Bradley et al. 1998
+358	5	1.00	32.33			Spherical flame/linear	Bradley et al. 1998
+358	5	0.80	24.87			Spherical flame/linear	Bradley et al. 1998
+358	5	0.80	24.06			Spherical flame/linear	Bradley et al. 1998
+358	7.5	1.00	27.39			Spherical flame/linear	Bradley et al. 1998
+358	7.5	0.80	19.92			Spherical flame/linear	Bradley et al. 1998
+358	10	1.00	26.45			Spherical flame/linear	Bradley et al. 1998
+358	10	1.00	25.21			Spherical flame/linear	Bradley et al. 1998
+358	10	0.80	18.73			Spherical flame/linear	Bradley et al. 1998
+450	1	1.00	67.60			Spherical flame/linear	Bradley et al. 1998
+450	1	1.00	65.28			Spherical flame/linear	Bradley et al. 1998
+450	1	0.80	51.25			Spherical flame/linear	Bradley et al. 1998
+450	2.5	1.00	40.21			Spherical flame/linear	Bradley et al. 1998
+450	2.5	1.00	37.66			Spherical flame/linear	Bradley et al. 1998
+450	2.5	0.80	38.28			Spherical flame/linear	Bradley et al. 1998
+450	2.5	0.80	34.26			Spherical flame/linear	Bradley et al. 1998
+450	5	1.00	40.39			Spherical flame/linear	Bradley et al. 1998
+450	5	1.00	39.69			Spherical flame/linear	Bradley et al. 1998
+450	5	0.80	30.92			Spherical flame/linear	Bradley et al. 1998
+450	5	0.80	28.83			Spherical flame/linear	Bradley et al. 1998
+450	7.5	1.00	32.47			Spherical flame/linear	Bradley et al. 1998
+450	7.5	1.00	31.77			Spherical flame/linear	Bradley et al. 1998
+450	7.5	0.80	22.62			Spherical flame/linear	Bradley et al. 1998
+450	7.5	0.80	20.75			Spherical flame/linear	Bradley et al. 1998
+450	7.5	0.80	17.68			Spherical flame/linear	Bradley et al. 1998
+450	10	1.00	33.18			Spherical flame/linear	Bradley et al. 1998
+450	10	0.80	25.28			Spherical flame/linear	Bradley et al. 1998
+450	10	0.80	24.76			Spherical flame/linear	Bradley et al. 1998
+400	1	1.00	53.40			Spherical flame/linear	Bradley et al. 1998
+400	1	0.80	45.12			Spherical flame/linear	Bradley et al. 1998
+400	2.5	1.00	44.85			Spherical flame/linear	Bradley et al. 1998
+400	2.5	1.00	43.69			Spherical flame/linear	Bradley et al. 1998
+400	2.5	0.80	32.21			Spherical flame/linear	Bradley et al. 1998
+400	2.5	0.80	39.72			Spherical flame/linear	Bradley et al. 1998
+400	5	1.00	33.92			Spherical flame/linear	Bradley et al. 1998
+400	5	1.00	38.66			Spherical flame/linear	Bradley et al. 1998
+400	5	0.80	25.59			Spherical flame/linear	Bradley et al. 1998
+400	5	0.80	24.06			Spherical flame/linear	Bradley et al. 1998
+400	7.5	1.00	30.41			Spherical flame/linear	Bradley et al. 1998
+400	10	1.00	28.86			Spherical flame/linear	Bradley et al. 1998
+400	10	1.00	31.49			Spherical flame/linear	Bradley et al. 1998
+400	10	0.80	17.46			Spherical flame/linear	Bradley et al. 1998
+400	10	0.80	19.67			Spherical flame/linear	Bradley et al. 1998
+300	1	0.70	18.55			Stagnation flame/linear 	Huang et al.  2004
+300	1	0.80	25.42			Stagnation flame/linear 	Huang et al.  2004
+300	1	0.90	30.47			Stagnation flame/linear 	Huang et al.  2004
+300	1	1.00	34.39			Stagnation flame/linear 	Huang et al.  2004
+300	1	1.10	34.95			Stagnation flame/linear 	Huang et al.  2004
+300	1	1.20	33.13			Stagnation flame/linear 	Huang et al.  2004
+300	1	1.30	28.08			Stagnation flame/linear 	Huang et al.  2004
+300	1	1.40	22.34			Stagnation flame/linear 	Huang et al.  2004
+300	1	0.80	23.43			Stagnation flame/linear 	Kumar et al. 2007
+300	1	0.90	29.92			Stagnation flame/linear 	Kumar et al. 2007
+300	1	1.00	33.09			Stagnation flame/linear 	Kumar et al. 2007
+300	1	1.10	36.14			Stagnation flame/linear 	Kumar et al. 2007
+300	1	1.20	33.86			Stagnation flame/linear 	Kumar et al. 2007
+300	1	1.30	29.79			Stagnation flame/linear 	Kumar et al. 2007
+360	1	0.70	25.96			Stagnation flame/linear 	Kumar et al. 2007
+360	1	0.80	35.90			Stagnation flame/linear 	Kumar et al. 2007
+360	1	0.90	44.67			Stagnation flame/linear 	Kumar et al. 2007
+360	1	1.00	47.96			Stagnation flame/linear 	Kumar et al. 2007
+360	1	1.10	49.89			Stagnation flame/linear 	Kumar et al. 2007
+360	1	1.20	48.10			Stagnation flame/linear 	Kumar et al. 2007
+360	1	1.30	41.82			Stagnation flame/linear 	Kumar et al. 2007
+360	1	1.40	37.10			Stagnation flame/linear 	Kumar et al. 2007
+400	1	0.70	35.48			Stagnation flame/linear 	Kumar et al. 2007
+400	1	0.80	45.81			Stagnation flame/linear 	Kumar et al. 2007
+400	1	0.90	52.90			Stagnation flame/linear 	Kumar et al. 2007
+400	1	1.00	57.10			Stagnation flame/linear 	Kumar et al. 2007
+400	1	1.10	59.68			Stagnation flame/linear 	Kumar et al. 2007
+400	1	1.20	57.42			Stagnation flame/linear 	Kumar et al. 2007
+400	1	1.30	51.29			Stagnation flame/linear 	Kumar et al. 2007
+400	1	1.40	43.05			Stagnation flame/linear 	Kumar et al. 2007
+470	1	0.70	51.29			Stagnation flame/linear 	Kumar et al. 2007
+470	1	0.80	62.26			Stagnation flame/linear 	Kumar et al. 2007
+470	1	0.90	73.87			Stagnation flame/linear 	Kumar et al. 2007
+470	1	1.00	77.10			Stagnation flame/linear 	Kumar et al. 2007
+470	1	1.10	79.03			Stagnation flame/linear 	Kumar et al. 2007
+470	1	1.20	76.77			Stagnation flame/linear 	Kumar et al. 2007
+470	1	1.30	70.65			Stagnation flame/linear 	Kumar et al. 2007
+470	1	1.40	59.68			Stagnation flame/linear 	Kumar et al. 2007
+373	10	0.70	10.69			Spherical flame/linear	Jerzembeck et al. 2009
+373	10	0.80	16.90			Spherical flame/linear	Jerzembeck et al. 2009
+373	10	0.90	23.22			Spherical flame/linear	Jerzembeck et al. 2009
+373	10	1.00	27.70			Spherical flame/linear	Jerzembeck et al. 2009
+373	10	1.20	25.63			Spherical flame/linear	Jerzembeck et al. 2009
+373	15	0.70	9.94			Spherical flame/linear	Jerzembeck et al. 2009
+373	15	0.80	15.51			Spherical flame/linear	Jerzembeck et al. 2009
+373	15	0.90	20.57			Spherical flame/linear	Jerzembeck et al. 2009
+373	15	1.00	25.06			Spherical flame/linear	Jerzembeck et al. 2009
+373	15	1.20	24.05			Spherical flame/linear	Jerzembeck et al. 2009
+373	20	0.70	7.08			Spherical flame/linear	Jerzembeck et al. 2009
+373	20	0.80	13.37			Spherical flame/linear	Jerzembeck et al. 2009
+373	20	0.90	18.65			Spherical flame/linear	Jerzembeck et al. 2009
+373	20	1.00	22.47			Spherical flame/linear	Jerzembeck et al. 2009
+373	20	1.20	22.70			Spherical flame/linear	Jerzembeck et al. 2009
+373	25	0.70	8.91			Spherical flame/linear	Jerzembeck et al. 2009
+373	25	0.80	13.89			Spherical flame/linear	Jerzembeck et al. 2009
+373	25	0.90	17.41			Spherical flame/linear	Jerzembeck et al. 2009
+373	25	1.00	20.86			Spherical flame/linear	Jerzembeck et al. 2009
+373	25	1.20	19.57			Spherical flame/linear	Jerzembeck et al. 2009
+400	1	0.80	46.27			Spherical flame/linear	Halter et al. 2010
+400	1	0.90	48.95			Spherical flame/linear	Halter et al. 2010
+400	1	1.00	52.44			Spherical flame/linear	Halter et al. 2010
+400	1	1.05	53.40			Spherical flame/linear	Halter et al. 2010
+400	1	1.10	52.66			Spherical flame/linear	Halter et al. 2010
+400	1	1.15	52.70			Spherical flame/linear	Halter et al. 2010
+400	1	1.20	51.64			Spherical flame/linear	Halter et al. 2010
+400	1	1.30	43.89			Spherical flame/linear	Halter et al. 2010
+400	1	0.80	38.76			Spherical flame/nonlinear	Halter et al. 2010
+400	1	0.90	46.51			Spherical flame/nonlinear	Halter et al. 2010
+400	1	1.00	50.96			Spherical flame/nonlinear	Halter et al. 2010
+400	1	1.05	52.41			Spherical flame/nonlinear	Halter et al. 2010
+400	1	1.10	53.23			Spherical flame/nonlinear	Halter et al. 2010
+400	1	1.15	51.86			Spherical flame/nonlinear	Halter et al. 2010
+400	1	1.20	50.61			Spherical flame/nonlinear	Halter et al. 2010
+400	1	1.30	44.16			Spherical flame/nonlinear	Halter et al. 2010
+400	1	1.40	34.26			Spherical flame/nonlinear	Halter et al. 2010
+300	1	0.80	24.42			Stagnation flame/linear 	Kelley et al. 2011b
+300	1	0.89	30.02			Stagnation flame/linear 	Kelley et al. 2011b
+300	1	0.95	32.97			Stagnation flame/linear 	Kelley et al. 2011b
+300	1	1.00	35.34			Stagnation flame/linear 	Kelley et al. 2011b
+300	1	1.05	36.07			Stagnation flame/linear 	Kelley et al. 2011b
+300	1	1.10	35.82			Stagnation flame/linear 	Kelley et al. 2011b
+300	1	1.16	34.68			Stagnation flame/linear 	Kelley et al. 2011b
+300	1	1.20	34.07			Stagnation flame/linear 	Kelley et al. 2011b
+300	1	1.27	28.31			Stagnation flame/linear 	Kelley et al. 2011b
+300	1	1.40	20.43			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	0.89	36.77			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	1.05	43.39			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	1.16	41.63			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	1.27	35.18			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	1.40	27.74			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	0.80	29.83			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	1.10	43.23			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	0.95	39.43			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	1.00	42.37			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	1.20	39.52			Stagnation flame/linear 	Kelley et al. 2011b
+353	1	0.80	30.30			Spherical flame/nonlinear	Kelley et al. 2011b
+353	1	0.90	37.67			Spherical flame/nonlinear	Kelley et al. 2011b
+353	1	1.00	42.33			Spherical flame/nonlinear	Kelley et al. 2011b
+353	1	1.10	43.31			Spherical flame/nonlinear	Kelley et al. 2011b
+353	1	1.20	41.43			Spherical flame/nonlinear	Kelley et al. 2011b
+353	1	1.30	34.37			Spherical flame/nonlinear	Kelley et al. 2011b
+353	1	1.40	26.07			Spherical flame/nonlinear	Kelley et al. 2011b
+353	1	1.50	17.60			Spherical flame/nonlinear	Kelley et al. 2011b
+353	1	1.60	12.01			Spherical flame/nonlinear	Kelley et al. 2011b
+353	1	1.70	7.88			Spherical flame/nonlinear	Kelley et al. 2011b
+353	2	1.00	36.42			Spherical flame/nonlinear	Kelley et al. 2011b
+353	2	1.10	36.50			Spherical flame/nonlinear	Kelley et al. 2011b
+353	2	1.20	34.20			Spherical flame/nonlinear	Kelley et al. 2011b
+353	2	1.30	27.92			Spherical flame/nonlinear	Kelley et al. 2011b
+353	2	0.90	33.11			Spherical flame/nonlinear	Kelley et al. 2011b
+353	2	0.80	27.86			Spherical flame/nonlinear	Kelley et al. 2011b
+353	5	1.00	28.00			Spherical flame/nonlinear	Kelley et al. 2011b
+353	5	1.10	28.75			Spherical flame/nonlinear	Kelley et al. 2011b
+353	5	0.90	25.50			Spherical flame/nonlinear	Kelley et al. 2011b
+353	5	0.80	21.05			Spherical flame/nonlinear	Kelley et al. 2011b
+353	10	0.90	19.81			Spherical flame/nonlinear	Kelley et al. 2011b
+353	10	0.80	15.88			Spherical flame/nonlinear	Kelley et al. 2011b
+353	10	0.70	10.91			Spherical flame/nonlinear	Kelley et al. 2011b
+353	10	1.00	23.05			Spherical flame/nonlinear	Kelley et al. 2011b
+300	1	0.60	13.15			Heat flux method	van Lipzig et al. 2011
+300	1	0.70	19.45			Heat flux method	van Lipzig et al. 2011
+300	1	0.80	25.91			Heat flux method	van Lipzig et al. 2011
+300	1	0.90	31.18			Heat flux method	van Lipzig et al. 2011
+300	1	1.00	34.88			Heat flux method	van Lipzig et al. 2011
+300	1	1.10	35.75			Heat flux method	van Lipzig et al. 2011
+300	1	1.15	35.20			Heat flux method	van Lipzig et al. 2011
+358	1	0.60	17.82			Heat flux method	van Lipzig et al. 2011
+358	1	0.70	26.90			Heat flux method	van Lipzig et al. 2011
+358	1	0.80	35.22			Heat flux method	van Lipzig et al. 2011
+358	1	0.90	41.80			Heat flux method	van Lipzig et al. 2011
+358	1	1.00	46.68			Heat flux method	van Lipzig et al. 2011
+358	1	1.10	48.15			Heat flux method	van Lipzig et al. 2011
+300	1	0.80	23.89			Spherical flame/nonlinear	Zhou et al. 2011
+300	1	0.90	28.98			Spherical flame/nonlinear	Zhou et al. 2011
+300	1	1.00	32.27			Spherical flame/nonlinear	Zhou et al. 2011
+300	1	1.10	33.55			Spherical flame/nonlinear	Zhou et al. 2011
+300	1	1.20	32.80			Spherical flame/nonlinear	Zhou et al. 2011
+300	1	0.80	24.17			Stagnation flame/linear 	Smallbone et al. 2011
+300	1	0.89	29.84			Stagnation flame/linear 	Smallbone et al. 2011
+300	1	0.95	32.76			Stagnation flame/linear 	Smallbone et al. 2011
+300	1	1.00	35.20			Stagnation flame/linear 	Smallbone et al. 2011
+300	1	1.05	35.98			Stagnation flame/linear 	Smallbone et al. 2011
+300	1	1.10	35.51			Stagnation flame/linear 	Smallbone et al. 2011
+300	1	1.16	34.49			Stagnation flame/linear 	Smallbone et al. 2011
+300	1	1.27	28.11			Stagnation flame/linear 	Smallbone et al. 2011
+300	1	1.40	20.32			Stagnation flame/linear 	Smallbone et al. 2011
+300	1	0.70	17.03	2.07		Heat flux method	Sileghem et al. 2013
+300	1	0.80	24.74	1.78		Heat flux method	Sileghem et al. 2013
+300	1	0.90	30.78	1.69		Heat flux method	Sileghem et al. 2013
+300	1	1.00	34.41	1.64		Heat flux method	Sileghem et al. 2013
+300	1	1.10	35.57	1.62		Heat flux method	Sileghem et al. 2013
+300	1	1.20	34.19	1.67		Heat flux method	Sileghem et al. 2013
+300	1	1.30	28.63	1.92		Heat flux method	Sileghem et al. 2013
+358	1	0.70	24.82			Heat flux method	Sileghem et al. 2013
+358	1	0.80	34.20			Heat flux method	Sileghem et al. 2013
+358	1	0.90	41.92			Heat flux method	Sileghem et al. 2013
+358	1	1.00	46.44			Heat flux method	Sileghem et al. 2013
+358	1	1.10	47.81			Heat flux method	Sileghem et al. 2013
+358	1	1.20	46.39			Heat flux method	Sileghem et al. 2013
+358	1	1.30	40.62			Heat flux method	Sileghem et al. 2013
+300	1	0.70	18.19			Heat flux method	Dirrenberger et al. 2014
+300	1	0.80	24.79			Heat flux method	Dirrenberger et al. 2014
+300	1	0.90	30.59			Heat flux method	Dirrenberger et al. 2014
+300	1	1.00	33.73			Heat flux method	Dirrenberger et al. 2014
+300	1	1.10	35.10			Heat flux method	Dirrenberger et al. 2014
+300	1	1.20	33.45			Heat flux method	Dirrenberger et al. 2014
+300	1	1.30	29.12			Heat flux method	Dirrenberger et al. 2014
+300	1	1.40	22.05			Heat flux method	Dirrenberger et al. 2014
+358	1	0.60	17.01			Heat flux method	Dirrenberger et al. 2014
+358	1	0.65	21.36			Heat flux method	Dirrenberger et al. 2014
+358	1	0.70	26.64			Heat flux method	Dirrenberger et al. 2014
+358	1	0.75	31.00			Heat flux method	Dirrenberger et al. 2014
+358	1	0.80	34.69			Heat flux method	Dirrenberger et al. 2014
+358	1	0.85	38.13			Heat flux method	Dirrenberger et al. 2014
+358	1	0.90	40.90			Heat flux method	Dirrenberger et al. 2014
+358	1	0.95	43.68			Heat flux method	Dirrenberger et al. 2014
+358	1	1.00	44.75			Heat flux method	Dirrenberger et al. 2014
+358	1	1.05	45.28			Heat flux method	Dirrenberger et al. 2014
+358	1	1.10	45.56			Heat flux method	Dirrenberger et al. 2014
+358	1	1.15	45.18			Heat flux method	Dirrenberger et al. 2014
+358	1	1.20	43.48			Heat flux method	Dirrenberger et al. 2014
+358	1	1.25	40.47			Heat flux method	Dirrenberger et al. 2014
+358	1	1.30	36.93			Heat flux method	Dirrenberger et al. 2014
+358	1	1.35	32.34			Heat flux method	Dirrenberger et al. 2014
+358	1	1.40	27.22			Heat flux method	Dirrenberger et al. 2014
+398	1	0.70	31.82			Heat flux method	Dirrenberger et al. 2014
+398	1	0.80	40.65			Heat flux method	Dirrenberger et al. 2014
+398	1	0.90	48.62			Heat flux method	Dirrenberger et al. 2014
+398	1	1.00	53.23			Heat flux method	Dirrenberger et al. 2014
+398	1	1.10	54.27			Heat flux method	Dirrenberger et al. 2014
+398	1	1.20	51.57			Heat flux method	Dirrenberger et al. 2014
+398	1	1.30	44.56			Heat flux method	Dirrenberger et al. 2014
+398	1	1.40	34.03			Heat flux method	Dirrenberger et al. 2014
+348	1	0.70	24.34			Heat flux method	Knorsch et al. 2014
+348	1	0.80	32.72			Heat flux method	Knorsch et al. 2014
+348	1	0.90	37.26			Heat flux method	Knorsch et al. 2014
+348	1	1.00	40.84			Heat flux method	Knorsch et al. 2014
+348	1	1.05	41.94			Heat flux method	Knorsch et al. 2014
+348	1	1.10	42.46			Heat flux method	Knorsch et al. 2014
+348	1	1.15	41.88			Heat flux method	Knorsch et al. 2014
+348	1	1.20	40.65			Heat flux method	Knorsch et al. 2014
+348	1	1.30	35.33			Heat flux method	Knorsch et al. 2014
+348	1	1.40	28.15			Heat flux method	Knorsch et al. 2014
+348	1	1.50	21.38			Heat flux method	Knorsch et al. 2014
+348	1	1.60	17.00			Heat flux method	Knorsch et al. 2014
+373	1	0.70	29.09			Heat flux method	Knorsch et al. 2014
+373	1	0.80	36.43			Heat flux method	Knorsch et al. 2014
+373	1	0.90	41.31			Heat flux method	Knorsch et al. 2014
+373	1	1.00	45.33			Heat flux method	Knorsch et al. 2014
+373	1	1.05	47.13			Heat flux method	Knorsch et al. 2014
+373	1	1.10	47.36			Heat flux method	Knorsch et al. 2014
+373	1	1.15	47.18			Heat flux method	Knorsch et al. 2014
+373	1	1.20	45.95			Heat flux method	Knorsch et al. 2014
+373	1	1.30	40.87			Heat flux method	Knorsch et al. 2014
+373	1	1.40	32.70			Heat flux method	Knorsch et al. 2014
+373	1	1.50	26.51			Heat flux method	Knorsch et al. 2014
+373	1	1.60	19.04			Heat flux method	Knorsch et al. 2014
+423	1	0.70	37.13			Heat flux method	Knorsch et al. 2014
+423	1	0.80	44.82			Heat flux method	Knorsch et al. 2014
+423	1	0.90	51.11			Heat flux method	Knorsch et al. 2014
+423	1	1.00	56.00			Heat flux method	Knorsch et al. 2014
+423	1	1.05	57.51			Heat flux method	Knorsch et al. 2014
+423	1	1.10	57.86			Heat flux method	Knorsch et al. 2014
+423	1	1.15	57.97			Heat flux method	Knorsch et al. 2014
+423	1	1.20	57.09			Heat flux method	Knorsch et al. 2014
+423	1	1.30	51.25			Heat flux method	Knorsch et al. 2014
+423	1	1.40	41.68			Heat flux method	Knorsch et al. 2014
+423	1	1.50	34.09			Heat flux method	Knorsch et al. 2014
+423	1	1.60	23.99			Heat flux method	Knorsch et al. 2014
